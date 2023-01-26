@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/idreamer/nybest2/blob/main/screenshots/screenshot.png)
+![Screenshot](https://github.com/idreamer/NYBest2/blob/main/screenshot.png)
 
 #  NYBest
 This is one of my iOS Portfolio. In this project, I developed New York Times bestsellers using [NYTimes Books API](https://developer.nytimes.com/).
