@@ -28,6 +28,8 @@
 		665F5FB329821EE300E8863A /* BooksModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665F5FB229821EE300E8863A /* BooksModel.swift */; };
 		665F5FB529821EEF00E8863A /* BookNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665F5FB429821EEF00E8863A /* BookNavigationViewController.swift */; };
 		665F5FB829827D9E00E8863A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 665F5FB729827D9E00E8863A /* .gitignore */; };
+		665F5FBA29827DDC00E8863A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 665F5FB929827DDB00E8863A /* README.md */; };
+		665F5FBC29827DED00E8863A /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 665F5FBB29827DED00E8863A /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,8 @@
 		665F5FB229821EE300E8863A /* BooksModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BooksModel.swift; sourceTree = "<group>"; };
 		665F5FB429821EEF00E8863A /* BookNavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookNavigationViewController.swift; sourceTree = "<group>"; };
 		665F5FB729827D9E00E8863A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		665F5FB929827DDB00E8863A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		665F5FBB29827DED00E8863A /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,8 @@
 		665F5F6D2982172000E8863A = {
 			isa = PBXGroup;
 			children = (
+				665F5FBD29827E0A00E8863A /* Screenshots */,
+				665F5FB929827DDB00E8863A /* README.md */,
 				665F5FB729827D9E00E8863A /* .gitignore */,
 				665F5F782982172000E8863A /* NYBest2 */,
 				665F5F772982172000E8863A /* Products */,
@@ -184,6 +190,14 @@
 			name = Models;
 			sourceTree = "<group>";
 		};
+		665F5FBD29827E0A00E8863A /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				665F5FBB29827DED00E8863A /* screenshot.png */,
+			);
+			name = Screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -244,7 +258,9 @@
 			files = (
 				665F5FB829827D9E00E8863A /* .gitignore in Resources */,
 				665F5F862982172000E8863A /* LaunchScreen.storyboard in Resources */,
+				665F5FBA29827DDC00E8863A /* README.md in Resources */,
 				665F5F8F29821D5B00E8863A /* app.plist in Resources */,
+				665F5FBC29827DED00E8863A /* screenshot.png in Resources */,
 				665F5F832982172000E8863A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
