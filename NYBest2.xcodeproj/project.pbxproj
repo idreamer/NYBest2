@@ -27,6 +27,7 @@
 		665F5FB029821ECD00E8863A /* BookDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665F5FAE29821ECD00E8863A /* BookDetailViewController.swift */; };
 		665F5FB329821EE300E8863A /* BooksModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665F5FB229821EE300E8863A /* BooksModel.swift */; };
 		665F5FB529821EEF00E8863A /* BookNavigationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 665F5FB429821EEF00E8863A /* BookNavigationViewController.swift */; };
+		665F5FB829827D9E00E8863A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 665F5FB729827D9E00E8863A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -52,6 +53,7 @@
 		665F5FAE29821ECD00E8863A /* BookDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookDetailViewController.swift; sourceTree = "<group>"; };
 		665F5FB229821EE300E8863A /* BooksModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BooksModel.swift; sourceTree = "<group>"; };
 		665F5FB429821EEF00E8863A /* BookNavigationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BookNavigationViewController.swift; sourceTree = "<group>"; };
+		665F5FB729827D9E00E8863A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 		665F5F6D2982172000E8863A = {
 			isa = PBXGroup;
 			children = (
+				665F5FB729827D9E00E8863A /* .gitignore */,
 				665F5F782982172000E8863A /* NYBest2 */,
 				665F5F772982172000E8863A /* Products */,
 			);
@@ -239,6 +242,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				665F5FB829827D9E00E8863A /* .gitignore in Resources */,
 				665F5F862982172000E8863A /* LaunchScreen.storyboard in Resources */,
 				665F5F8F29821D5B00E8863A /* app.plist in Resources */,
 				665F5F832982172000E8863A /* Assets.xcassets in Resources */,
